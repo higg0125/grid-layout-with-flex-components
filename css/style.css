@@ -25,3 +25,9 @@ body {
   .icon {
     font-size: 4rem;
   }
+
+  /* My css */
+
+  body {
+    background: url('../grid-flex-assignment.png') 3px 19px no-repeat;
+}
